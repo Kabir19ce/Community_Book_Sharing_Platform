@@ -1,0 +1,14 @@
+# React
+frontend/node_modules
+frontend/build
+frontend/.env
+
+# Spring Boot
+backend/target
+backend/.mvn
+backend/.env
+
+# IDE
+.vscode
+.idea
+*.log
